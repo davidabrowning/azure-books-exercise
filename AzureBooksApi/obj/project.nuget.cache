@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "m/Y4xFrYpc8=",
+  "success": true,
+  "projectFilePath": "C:\\GitRepos\\azure-books-exercise\\AzureBooksApi\\AzureBooksApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.12\\microsoft.aspnetcore.openapi.9.0.12.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
