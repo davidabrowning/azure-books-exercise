@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AzureBooksApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5eb5440226075ca3e876bc2faae6bd19d7cabe84")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3017a0b523e26a31932a14879e4a5cc1ecd78ebc")]
 [assembly: System.Reflection.AssemblyProductAttribute("AzureBooksApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AzureBooksApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
